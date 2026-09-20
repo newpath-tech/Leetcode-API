@@ -49,7 +49,7 @@ Traditional LeetCode profile integrations suffer from a **5 to 6-day telemetry l
 
 ### 🔍 Quick Test (cURL)
 
-```bash
+
 curl -X GET "[https://leetcode-api-3g9n.onrender.com/neal_wu/contest](https://leetcode-api-3g9n.onrender.com/neal_wu/contest)" \
      -H "accept: application/json"
 ✨ KEY FEATURES
