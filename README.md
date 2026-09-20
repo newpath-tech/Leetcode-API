@@ -629,11 +629,9 @@ git push origin feature/your-feature
 - 📢 Share the project
 
 ---
-
- \<div align="center"\> ### 🌌 LEETCODE REALTIME NEXUS API
+### 🌌 LEETCODE REALTIME NEXUS API
 
  **Realtime Contest Telemetry • GraphQL • FastAPI • Python**
 
  `Built with ⚡ for Competitive Programming`
 
- \</div\>
